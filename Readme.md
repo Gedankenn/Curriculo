@@ -4,7 +4,7 @@
 📍 Pato Branco, PR, Brazil  
 📧 [fabioslikastella@gmail.com](mailto:fabioslikastella@gmail.com)  
 🔗 [GitHub: Gedankenn](https://github.com/Gedankenn)  
-🔗 [LinkedIn: Fabio Slika Stella](https://www.linkedin.com/in/fabio-slika-stella-6a37b513a/)
+🔗 [LinkedIn: Fabio Slika Stella](https://www.linkedin.com/in/fabio-stella/)
 
 📄 **CV (PDF):** [English](Curriculo_Fabio_Stella_EN.pdf) · [Português](Curriculo_Fabio_Stella_PT.pdf)  
 _Source: [`src/build_cv.py`](src/build_cv.py) (python-docx + LibreOffice) — run `python3 src/build_cv.py` to rebuild both PDFs._
